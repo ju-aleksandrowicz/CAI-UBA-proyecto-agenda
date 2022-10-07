@@ -1,0 +1,11 @@
+C:\Users\julian\Documents\GitHub\construccion-de-aplicaciones-informaticas-UBA-proyecto-agenda\ProyectoAgenda\ProyectoAgenda.Consola\bin\Debug\ProyectoAgenda.Consola.exe.config
+C:\Users\julian\Documents\GitHub\construccion-de-aplicaciones-informaticas-UBA-proyecto-agenda\ProyectoAgenda\ProyectoAgenda.Consola\bin\Debug\ProyectoAgenda.Consola.exe
+C:\Users\julian\Documents\GitHub\construccion-de-aplicaciones-informaticas-UBA-proyecto-agenda\ProyectoAgenda\ProyectoAgenda.Consola\bin\Debug\ProyectoAgenda.Consola.pdb
+C:\Users\julian\Documents\GitHub\construccion-de-aplicaciones-informaticas-UBA-proyecto-agenda\ProyectoAgenda\ProyectoAgenda.Consola\bin\Debug\ProyectoAgenda.Dominio.dll
+C:\Users\julian\Documents\GitHub\construccion-de-aplicaciones-informaticas-UBA-proyecto-agenda\ProyectoAgenda\ProyectoAgenda.Consola\bin\Debug\ProyectoAgenda.Dominio.pdb
+C:\Users\julian\Documents\GitHub\construccion-de-aplicaciones-informaticas-UBA-proyecto-agenda\ProyectoAgenda\ProyectoAgenda.Consola\obj\Debug\ProyectoAgenda.Consola.csproj.AssemblyReference.cache
+C:\Users\julian\Documents\GitHub\construccion-de-aplicaciones-informaticas-UBA-proyecto-agenda\ProyectoAgenda\ProyectoAgenda.Consola\obj\Debug\ProyectoAgenda.Consola.csproj.SuggestedBindingRedirects.cache
+C:\Users\julian\Documents\GitHub\construccion-de-aplicaciones-informaticas-UBA-proyecto-agenda\ProyectoAgenda\ProyectoAgenda.Consola\obj\Debug\ProyectoAgenda.Consola.csproj.CoreCompileInputs.cache
+C:\Users\julian\Documents\GitHub\construccion-de-aplicaciones-informaticas-UBA-proyecto-agenda\ProyectoAgenda\ProyectoAgenda.Consola\obj\Debug\ProyectoAgenda.Consola.csproj.CopyComplete
+C:\Users\julian\Documents\GitHub\construccion-de-aplicaciones-informaticas-UBA-proyecto-agenda\ProyectoAgenda\ProyectoAgenda.Consola\obj\Debug\ProyectoAgenda.Consola.exe
+C:\Users\julian\Documents\GitHub\construccion-de-aplicaciones-informaticas-UBA-proyecto-agenda\ProyectoAgenda\ProyectoAgenda.Consola\obj\Debug\ProyectoAgenda.Consola.pdb

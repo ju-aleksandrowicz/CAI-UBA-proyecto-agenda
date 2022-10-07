@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0939E12F-E360-46E8-B42D-9B46772DB542}</ProjectGuid>
+    <ProjectGuid>{573DE5E6-FC7F-4AEA-A509-8F1F4FD3C919}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ProyectoAgenda.InterfazConsola</RootNamespace>
-    <AssemblyName>ProyectoAgenda.InterfazConsola</AssemblyName>
+    <RootNamespace>ProyectoAgenda.Consola</RootNamespace>
+    <AssemblyName>ProyectoAgenda.Consola</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,14 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Agenda.cs" />
-    <Compile Include="Contacto.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Validaciones.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ProyectoAgenda.Dominio\ProyectoAgenda.Dominio.csproj">
+      <Project>{2a655435-51c0-43ed-9ea8-ff696eee792d}</Project>
+      <Name>ProyectoAgenda.Dominio</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
