@@ -113,7 +113,7 @@ namespace ProyectoAgenda.InterfazConsola
                             } while (!flag);
 
                             Contacto nuevoContacto = new Contacto(nombre, apellido, telefono, direccion, fechaNacimiento);
-                            agenda1.Contactos.Add(nuevoContacto);
+                            agenda1.AgregarContacto(nuevoContacto);                           
                             Console.Write(Environment.NewLine + "Contacto agendado! Pulse cualquier tecla para volver al menu principal...");
                             Console.ReadKey();
                         }

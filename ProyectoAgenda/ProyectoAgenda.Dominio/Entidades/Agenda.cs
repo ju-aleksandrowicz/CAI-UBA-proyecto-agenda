@@ -36,7 +36,6 @@ namespace ProyectoAgenda.Entidades
         public List<Contacto> Contactos
         {
             get { return _contactos; }
-            set { _contactos = value; }
         }
 
         public int CantidadMaximaContactos

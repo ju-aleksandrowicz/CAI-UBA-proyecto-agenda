@@ -4,3 +4,9 @@ C:\Users\julian\Documents\GitHub\construccion-de-aplicaciones-informaticas-UBA-p
 C:\Users\julian\Documents\GitHub\construccion-de-aplicaciones-informaticas-UBA-proyecto-agenda\ProyectoAgenda\ProyectoAgenda.Dominio\obj\Debug\ProyectoAgenda.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\julian\Documents\GitHub\construccion-de-aplicaciones-informaticas-UBA-proyecto-agenda\ProyectoAgenda\ProyectoAgenda.Dominio\obj\Debug\ProyectoAgenda.Dominio.dll
 C:\Users\julian\Documents\GitHub\construccion-de-aplicaciones-informaticas-UBA-proyecto-agenda\ProyectoAgenda\ProyectoAgenda.Dominio\obj\Debug\ProyectoAgenda.Dominio.pdb
+C:\Users\juale\OneDrive\Documentos\GitHub\construccion-de-aplicaciones-informaticas-UBA-proyecto-agenda\ProyectoAgenda\ProyectoAgenda.Dominio\bin\Debug\ProyectoAgenda.Dominio.dll
+C:\Users\juale\OneDrive\Documentos\GitHub\construccion-de-aplicaciones-informaticas-UBA-proyecto-agenda\ProyectoAgenda\ProyectoAgenda.Dominio\bin\Debug\ProyectoAgenda.Dominio.pdb
+C:\Users\juale\OneDrive\Documentos\GitHub\construccion-de-aplicaciones-informaticas-UBA-proyecto-agenda\ProyectoAgenda\ProyectoAgenda.Dominio\obj\Debug\ProyectoAgenda.Dominio.csproj.AssemblyReference.cache
+C:\Users\juale\OneDrive\Documentos\GitHub\construccion-de-aplicaciones-informaticas-UBA-proyecto-agenda\ProyectoAgenda\ProyectoAgenda.Dominio\obj\Debug\ProyectoAgenda.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\juale\OneDrive\Documentos\GitHub\construccion-de-aplicaciones-informaticas-UBA-proyecto-agenda\ProyectoAgenda\ProyectoAgenda.Dominio\obj\Debug\ProyectoAgenda.Dominio.dll
+C:\Users\juale\OneDrive\Documentos\GitHub\construccion-de-aplicaciones-informaticas-UBA-proyecto-agenda\ProyectoAgenda\ProyectoAgenda.Dominio\obj\Debug\ProyectoAgenda.Dominio.pdb
